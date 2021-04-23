@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SMS_jar</output-path>
+    <root id="archive" name="SMS.jar">
+      <element id="module-output" name="SMS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/VTMER_PRO/libs/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
